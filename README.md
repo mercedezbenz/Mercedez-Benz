@@ -34,3 +34,6 @@ Currently improving my skills through self-study and building real-world project
 
 ## ✨ Motto
 > Memento Mori ( remember you must die )
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
